@@ -1,0 +1,35 @@
+=====================================================
+  Python Code Typer - Quick Start Guide
+  For Non-Programmers
+=====================================================
+
+SETUP (First Time Only):
+------------------------
+1. Double-click "setup_windows.bat"
+2. Wait for installation (may take 2-5 minutes)
+3. Done!
+
+USING THE APP:
+--------------
+1. Copy your Python code (Ctrl+C)
+2. Double-click "run_windows.bat"
+3. Follow the on-screen instructions
+4. Switch to your LeetCode window during countdown
+5. Watch your code being typed automatically!
+
+TROUBLESHOOTING:
+----------------
+- If "setup_windows.bat" fails, you may need to:
+  1. Run as Administrator (Right-click -> Run as administrator)
+  2. Or install Python manually from: https://www.python.org/downloads/
+     (Make sure to check "Add Python to PATH")
+
+- If you get an error about missing packages:
+  1. Run "setup_windows.bat" again
+
+NEED HELP?
+----------
+Check README.md for detailed instructions and configuration options.
+
+=====================================================
+

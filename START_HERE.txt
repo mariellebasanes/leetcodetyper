@@ -1,0 +1,74 @@
+
+ ╔══════════════════════════════════════════════════════════╗
+ ║                                                          ║
+ ║        PYTHON CODE TYPER - START HERE                    ║
+ ║        For Non-Programmers                               ║
+ ║                                                          ║
+ ╚══════════════════════════════════════════════════════════╝
+
+ 📋 WHAT IS THIS?
+ ────────────────────────────────────────────────────────────
+ This app automatically types your Python code into LeetCode
+ (or any editor) with human-like typing speed and perfect
+ indentation.
+
+
+ 🚀 QUICK START (First Time):
+ ────────────────────────────────────────────────────────────
+ 
+ STEP 1: Setup (One Time Only)
+ 
+   Choose ONE of these options:
+   
+   ✨ OPTION A (RECOMMENDED - Fastest):
+      → Double-click: SIMPLE_SETUP.bat
+   
+   ✨ OPTION B (Alternative):
+      → Double-click: setup_windows.bat
+   
+   Wait 2-5 minutes for installation to complete.
+   
+   
+ STEP 2: Use the App
+ 
+   → Double-click: run_windows.bat
+   
+   Follow the on-screen instructions!
+
+
+ 📖 HOW TO USE:
+ ────────────────────────────────────────────────────────────
+ 1. Copy your Python code (Ctrl+C)
+ 2. Double-click "run_windows.bat"
+ 3. Review the preview
+ 4. Type 'y' to confirm
+ 5. Switch to your target window during the 3-second countdown
+ 6. Watch it type automatically!
+
+
+ ⚠️ TROUBLESHOOTING:
+ ────────────────────────────────────────────────────────────
+ Problem: Setup fails?
+ Solution: 
+   - Right-click setup file → "Run as Administrator"
+   - Or manually install Python from:
+     https://www.python.org/downloads/
+     (Check "Add Python to PATH" during install)
+
+ Problem: "Python not found" error?
+ Solution:
+   - Restart your computer after setup
+   - Run the setup again
+
+
+ 📚 MORE INFO:
+ ────────────────────────────────────────────────────────────
+ • Full documentation: README.md
+ • Quick reference: QUICK_START.txt
+
+
+ ════════════════════════════════════════════════════════════
+ Ready? Double-click SIMPLE_SETUP.bat to begin!
+ ════════════════════════════════════════════════════════════
+
+
