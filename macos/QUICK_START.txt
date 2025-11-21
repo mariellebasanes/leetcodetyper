@@ -1,0 +1,59 @@
+=====================================================
+  Python Code Typer - Quick Start Guide (macOS)
+  For Non-Programmers
+=====================================================
+
+SETUP (First Time Only):
+------------------------
+1. Open Terminal (Applications → Utilities → Terminal)
+2. Navigate to the macos folder
+3. Run: chmod +x SIMPLE_SETUP.sh && ./SIMPLE_SETUP.sh
+4. Wait for installation (may take 2-5 minutes)
+5. Grant permissions when prompted
+6. Done!
+
+USING THE APP:
+--------------
+1. Copy your Python code (Cmd+C)
+2. Open Terminal and navigate to the macos folder
+3. Run: ./run_macos.sh
+4. Follow the on-screen instructions
+5. Switch to your LeetCode window during countdown
+6. Watch your code being typed automatically!
+
+MAKING SCRIPTS EXECUTABLE:
+--------------------------
+Before first use, make the scripts executable:
+  chmod +x *.sh
+
+GRANTING ACCESSIBILITY PERMISSIONS:
+-----------------------------------
+macOS requires accessibility permissions for automated typing:
+  1. Go to System Preferences → Security & Privacy
+  2. Click 'Privacy' tab
+  3. Select 'Accessibility' from the left
+  4. Click the lock icon to make changes (enter password)
+  5. Add Terminal (or your terminal app) to the list
+  6. Check the box to enable it
+
+TROUBLESHOOTING:
+----------------
+- If SIMPLE_SETUP.sh fails:
+  1. Install Homebrew manually: https://brew.sh
+  2. Then run: ./setup_macos.sh
+
+- If you get "Permission denied" errors:
+  1. Run: chmod +x *.sh
+  2. Try again
+
+- If app doesn't type:
+  1. Check accessibility permissions (see above)
+  2. Restart Terminal
+  3. Try running the app again
+
+NEED HELP?
+----------
+Check ../README.md for detailed instructions and configuration options.
+
+=====================================================
+

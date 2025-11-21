@@ -1,11 +1,11 @@
 =====================================================
-  Python Code Typer - Quick Start Guide
+  Python Code Typer - Quick Start Guide (Windows)
   For Non-Programmers
 =====================================================
 
 SETUP (First Time Only):
 ------------------------
-1. Double-click "setup_windows.bat"
+1. Double-click "SIMPLE_SETUP.bat" (or "setup_windows.bat")
 2. Wait for installation (may take 2-5 minutes)
 3. Done!
 
@@ -19,8 +19,8 @@ USING THE APP:
 
 TROUBLESHOOTING:
 ----------------
-- If "setup_windows.bat" fails, you may need to:
-  1. Run as Administrator (Right-click -> Run as administrator)
+- If "SIMPLE_SETUP.bat" fails, you may need to:
+  1. Run as Administrator (Right-click → Run as administrator)
   2. Or install Python manually from: https://www.python.org/downloads/
      (Make sure to check "Add Python to PATH")
 
@@ -29,7 +29,7 @@ TROUBLESHOOTING:
 
 NEED HELP?
 ----------
-Check README.md for detailed instructions and configuration options.
+Check ../README.md for detailed instructions and configuration options.
 
 =====================================================
 

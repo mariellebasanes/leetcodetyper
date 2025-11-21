@@ -1,7 +1,7 @@
 
  ╔══════════════════════════════════════════════════════════╗
  ║                                                          ║
- ║        PYTHON CODE TYPER - START HERE                    ║
+ ║        PYTHON CODE TYPER - START HERE (Windows)          ║
  ║        For Non-Programmers                               ║
  ║                                                          ║
  ╚══════════════════════════════════════════════════════════╝
@@ -63,7 +63,7 @@
 
  📚 MORE INFO:
  ────────────────────────────────────────────────────────────
- • Full documentation: README.md
+ • Full documentation: ../README.md
  • Quick reference: QUICK_START.txt
 
 

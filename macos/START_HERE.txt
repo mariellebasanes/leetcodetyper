@@ -1,0 +1,99 @@
+
+ ╔══════════════════════════════════════════════════════════╗
+ ║                                                          ║
+ ║        PYTHON CODE TYPER - START HERE (macOS)            ║
+ ║        For Non-Programmers                               ║
+ ║                                                          ║
+ ╚══════════════════════════════════════════════════════════╝
+
+ 📋 WHAT IS THIS?
+ ────────────────────────────────────────────────────────────
+ This app automatically types your Python code into LeetCode
+ (or any editor) with human-like typing speed and perfect
+ indentation.
+
+
+ 🚀 QUICK START (First Time):
+ ────────────────────────────────────────────────────────────
+ 
+ STEP 1: Setup (One Time Only)
+ 
+   Open Terminal (Applications → Utilities → Terminal)
+   Navigate to this folder and run:
+   
+   ✨ OPTION A (RECOMMENDED - Fastest):
+      chmod +x SIMPLE_SETUP.sh && ./SIMPLE_SETUP.sh
+   
+   ✨ OPTION B (Alternative):
+      chmod +x setup_macos.sh && ./setup_macos.sh
+   
+   Wait 2-5 minutes for installation to complete.
+   
+   ⚠️  IMPORTANT: You may be prompted to:
+       • Enter your password (for Homebrew installation)
+       • Grant accessibility permissions to Terminal
+       
+       Both are normal and required for the app to work!
+   
+   
+ STEP 2: Use the App
+ 
+   In Terminal, run:
+      chmod +x run_macos.sh && ./run_macos.sh
+   
+   Follow the on-screen instructions!
+
+
+ 📖 HOW TO USE:
+ ────────────────────────────────────────────────────────────
+ 1. Copy your Python code (Cmd+C)
+ 2. Open Terminal and navigate to this folder
+ 3. Run: ./run_macos.sh
+ 4. Review the preview
+ 5. Type 'y' to confirm
+ 6. Switch to your target window during the 3-second countdown
+ 7. Watch it type automatically!
+
+
+ ⚠️ TROUBLESHOOTING:
+ ────────────────────────────────────────────────────────────
+ Problem: Setup fails?
+ Solution: 
+   - Make sure you have an internet connection
+   - You may need to install Xcode Command Line Tools:
+     xcode-select --install
+   - Or manually install Homebrew from: https://brew.sh
+
+ Problem: App doesn't type anything?
+ Solution:
+   - Go to System Preferences → Security & Privacy
+   - Click 'Privacy' tab
+   - Select 'Accessibility' from the left
+   - Add Terminal (or your terminal app) to the list
+   - Check the box to enable it
+
+ Problem: "Permission denied" error?
+ Solution:
+   - Make the scripts executable:
+     chmod +x *.sh
+
+
+ 💡 TIPS FOR macOS:
+ ────────────────────────────────────────────────────────────
+ • The app needs accessibility permissions to type
+ • You can create shortcuts to run scripts from anywhere
+ • Use Cmd+Tab to quickly switch to your target window
+ • Keep Terminal open in the background for easy access
+
+
+ 📚 MORE INFO:
+ ────────────────────────────────────────────────────────────
+ • Full documentation: ../README.md
+ • Quick reference: QUICK_START.txt
+
+
+ ════════════════════════════════════════════════════════════
+ Ready? Run: chmod +x SIMPLE_SETUP.sh && ./SIMPLE_SETUP.sh
+ ════════════════════════════════════════════════════════════
+
+
